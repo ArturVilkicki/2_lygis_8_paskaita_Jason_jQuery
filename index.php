@@ -141,6 +141,7 @@
         $('.nav').removeClass('fixed');
     }
 	});
+	
 	</script>
 </body>
 </html>
